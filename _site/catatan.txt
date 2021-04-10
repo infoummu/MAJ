@@ -1,0 +1,15 @@
+
+COMMAND HIGHLIGHT :
+{% highlight ruby linenos %}
+man xargs
+{% endhighlight %}
+------------------------------
+LINK : 
+- [Jekyll-style](https://mademistakes.com/style-guide/){:target="_blank"}
+------------------------------
+PICTURE : 
+![image-title-here](img/cantik-icon.png){: .rkiri}
+------------------------------
+VIDEO : 
+
+
