@@ -33,7 +33,8 @@ category: MAJ
 
 
 
-* Nama-Nama kelompok bisa lihat disini : [NamaNamaKelompok](kelompok){:target="_blank"}
+* Nama-Nama Kelompok Sama dengan kelompok pada MK TAJ : [NamaNamaKelompok](kelompok){:target="_blank"}
+* Jika nama anggota kelompok ada yang tidak kontrak Mata Kuliah Manajemen Jaringan dan anggota kurang dari 3 orang segera cari anggota kelompok baru agar berjumlah 4 orang, dan segera konfirmasi.
 
 
 <br/><br/><br/>
