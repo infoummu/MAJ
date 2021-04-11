@@ -26,7 +26,7 @@ category: MAJ
  
 1. Laporan dibuat dalam format file PDF, 
 3. Beri nama file dengan nama : <b>Tutorial_MikrotikOS_kelompok_01_Info1.pdf</b> (Sesuaikan Nomor kelompok dan INFOnya).
-3. Judul Email/Subject Email : Tutorial Mikrotik OS Kelompok 01 (sesuaikan nomor kelompoknya dan INFOnya).
+3. Judul Email/Subject Email : <b>Tutorial Mikrotik OS Kelompok 01 Info1</b> (sesuaikan nomor kelompoknya dan INFOnya).
 4. Kirim ke email : <b><i>elyas.uii14@gmail.com</i></b>
 
 
