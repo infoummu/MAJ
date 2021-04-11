@@ -22,9 +22,9 @@ category: MAJ
 2. Buat laporan hasil praktikumnya berupa Tutorial tentang cara  install Mikrotik OS, Langkah-langkah dari awal untuk mendownload Mikrotik OS sampai install pada VM, setelah selesai install, login dan ubah system "identity" menjadi Nama atau nomor Kelompok, sertakan semua langkah-langkah dengan GAMBAR Hasil SCREENSHOT beserta dengan keterangan karena ini sifatnya TUTORIAL.
  
 1. File iso mikrotik os dapat di download di situsnya berikut : [mikrotikos](https://download.mikrotik.com/routeros/6.48.1/mikrotik-6.48.1.iso)  
-2. atau bisa langsung ke halaman download [mikrotikos](https://mikrotik.com/download)
+2. Atau bisa langsung ke halaman download [mikrotikos](https://mikrotik.com/download)
  
-1. Dibuat dalam format  file PDF, 
+1. Laporan dibuat dalam format file PDF, 
 3. Beri nama file dengan nama : <b>Tutorial_MikrotikOS_kelompok_01_Info1.pdf</b> (Sesuaikan Nomor kelompok dan INFOnya).
 3. Judul Email/Subject Email : Tutorial Mikrotik OS Kelompok 01 (sesuaikan nomor kelompoknya dan INFOnya).
 4. Kirim ke email : <b><i>elyas.uii14@gmail.com</i></b>
