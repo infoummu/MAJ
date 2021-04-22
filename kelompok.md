@@ -10,7 +10,80 @@ header: Kelompok
 
 ***
 
+
+
 ## KELOMPOK INOF-1
+
+#### Kelompok 1
+
+1. Harjono Lakadu
+2. Mulyadi Djahir
+3. Asri Totou
+4. Jihan Rajim
+
+#### Kelompok 2
+
+1. Uly Mitha Fabanyo
+2. Sarnina 
+3. Arsi Prilisa Jufri
+4. Asriani Andi
+
+#### Kelompok 3
+
+1. Tiara Selvia Aziz
+2. Dwi Putri Medianti
+3. Rinaldi Idham
+4. Ruskin Ruslan
+
+
+#### Kelompok 4
+
+1. Riski Achmad
+2. Claudio Septian
+3. Agus Hi. Kasim
+4. Dandi Larombia
+
+#### Kelompok 5
+
+1. Dwi Septian Wedangga
+2. Randi Sukri
+3. Al’Aidin Mutalib
+4. Ayka Rahmi Umasugi 
+
+#### Kelompok 6
+
+1. Marfin T. Luri
+2. Irsan Jafar
+3. Burhan Bakri
+4. Hasan Saban
+
+#### Kelompok 7
+
+1. Kartika Marwan
+2. Julaiha Mukhlis
+3. Junaidi Muhammad 
+4. Thalib Husain
+
+
+#### Kelompok 8 
+
+1. Wanhar Junaidi
+2. Hafit Sayuti
+3. Faisal Idwar
+4. Fikram Udin
+
+
+
+#### Kelompok 9
+
+1. Fajar A. Umaternate 
+2. Aminullah Hi. Muksin
+3. Nurjana Kamarudin
+
+
+***
+
+## KELOMPOK INOF-2
 
 
 #### KELOMPOK 1
@@ -84,59 +157,4 @@ header: Kelompok
 2. MUJAHID, NPM:17041
 3. RAHMAD ARSAD, NPM:17137
 4. SUPRIYADIN HIDAYAT, NPM:17054
-2. FAJRIANI LOLINGA, NPM:17051
-
-
-***
-
-## KELOMPOK INOF-2
-
-#### Kelompok 1
-
-1. Harjono Lakadu
-2. Mulyadi Djahir
-3. Asri Totou
-4. Jihan Rajim
-
-#### Kelompok 2
-
-1. Uly Mitha Fabanyo
-2. Sarnina 
-3. Arsi Prilisa Jufri
-4. Asriani Andi
-
-#### Kelompok 3
-
-1. Fajar A. Umaternate 
-2. Tiara Selvia Aziz
-3. Dwi Putri Medianti
-4. Aminullah Hi. Muksin
-
-#### Kelompok 4
-
-1. Riski Achmad
-2. Claudio Septian
-3. Agus Hi. Kasim
-4. Dandi Larombia
-
-#### Kelompok 5
-
-1. Dwi Septian Wedangga
-2. Randi Sukri
-3. Al’Aidin Mutalib
-4. Ayka Rahmi Umasugi 
-
-#### Kelompok 6
-
-1. Marfin T. Luri
-2. Irsan Jafar
-3. Burhan Bakri
-4. Hasan Saban
-
-#### Kelompok 7
-
-1. Kartika Marwan
-2. Julaiha Mukhlis
-3. Junaidi Muhammad 
-4. Thalib Husain
-5. Nurjana Kamarudin
+5. FAJRIANI LOLINGA, NPM:17051
